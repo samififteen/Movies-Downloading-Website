@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Download Website
 
 This project will be a website for browsing and downloading movies.
@@ -28,3 +29,7 @@ This project will be a website for browsing and downloading movies.
     *   Implement download functionality (this will require careful consideration of how movie files are stored and served).
 
 Let's start by creating the `frontend` and `backend` directories.
+=======
+# Movies-Downloading-Website
+EraMovies is a dynamic and intuitive movie browsing interface powered by React.
+>>>>>>> 74e986fb0bfa0dd7e27fe048160fc4e13bceeb6f
